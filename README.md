@@ -1,2 +1,2 @@
 ﻿# TrafficSignalAlgorithm
-Traffic Signal Algorithm is an efficient way for traffic managemant 
+Traffic Signal Algorithm is an efficient way for traffic management 
